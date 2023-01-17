@@ -38,7 +38,6 @@ body {
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: 20% 15%;
-    
     display: flex;
     align-items: center;
 }
@@ -78,6 +77,13 @@ main nav a {
     font-family: 'Outfit', sans-serif;
     font-size: 24px;
     color: rgb(2, 163, 2);
+}
+.icons {
+    margin-bottom: 1rem;
+}
+.icons img{
+    width: 3rem;
+    padding: 5px;
 }
 
 footer {
