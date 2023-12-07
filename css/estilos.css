@@ -73,11 +73,11 @@ main nav a {
     font-size: 22px;
     padding: 0.6rem 0.9rem;
 }
-.link2 .uber {
+/* .link2 .uber {
     font-family: 'Outfit', sans-serif;
     font-size: 24px;
     color: rgb(2, 163, 2);
-}
+} */
 .icons {
     margin-bottom: 1rem;
 }
@@ -95,4 +95,5 @@ footer p {
     height: 2rem;
     font-size: 12px;
     margin: 0 auto;
+    
 }
